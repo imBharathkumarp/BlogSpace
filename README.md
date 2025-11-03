@@ -6,6 +6,28 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 
 ---
 
+## 📑 Table of Contents
+
+<details>
+  <summary><strong>🔎Click to expand 👇</strong></summary>
+
+  - [🧩 Features](#-features)
+  - [🛠 Tech Stack](#-tech-stack)
+  - [⚙ Project Structure](#-project-structure)
+  - [📸 Snapshots](#-snapshots)
+  - [🕹 Database Schema](#-database-schema)
+  - [📜 Getting Started](#-getting-started)
+  - [👀 Usage Guide](#-usage-guide)
+  - [🦾 API Endpoints](#-api-endpoints)
+  - [💻 Key Implementation Details](#-key-implementation-details)
+  - [👉 Future Enhancements](#-future-enhancements)
+  - [🤝 License](#-license)
+  - [😊 Author](#-author)
+
+</details>
+
+---
+
 ## 🧩 Features
 
 ### Core Functionality
