@@ -4,6 +4,8 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 
 ![BlogSpace](https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
+---
+
 ## Features
 
 ### Core Functionality
@@ -25,6 +27,8 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 - **Row-Level Security**: Secure data access with RLS policies
 - **API Routes**: RESTful API endpoints for all CRUD operations
 
+---
+
 ## Tech Stack
 
 - **Frontend**: Next.js 13 (App Router), React 18, TypeScript
@@ -34,6 +38,8 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 - **Database**: Supabase (PostgreSQL)
 - **Authentication**: Supabase Auth
 - **Deployment**: Vercel
+
+---
 
 ## Project Structure
 
@@ -73,6 +79,15 @@ blogspace/
 └── README.md
 ```
 
+---
+
+## Snapshots
+
+- ![alt text](image.png)
+- ![alt text](image-1.png)
+
+---
+
 ## Database Schema
 
 ### `blogs` Table
@@ -90,6 +105,8 @@ blogspace/
 - Anyone can read blogs
 - Authenticated users can create blogs
 - Users can only update/delete their own blogs
+
+---
 
 ## Getting Started
 
@@ -135,12 +152,14 @@ blogspace/
 
    Navigate to [http://localhost:3000](http://localhost:3000)
 
+---
+
 ## Usage Guide
 
 ### Creating an Account
 1. Click "Sign Up" in the navigation bar
 2. Enter your name, email, and password
-3. You'll be automatically logged in after signup
+3. You'll be automatically logged in after signup, if not "Sign in" again.
 
 ### Creating a Blog Post
 1. Log in to your account
@@ -159,6 +178,8 @@ blogspace/
 1. Navigate to your blog post
 2. Click the "Delete" button (only visible for your own posts)
 3. Confirm the deletion
+
+---
 
 ## API Endpoints
 
@@ -184,28 +205,7 @@ Update a blog post
 Delete a blog post
 - Response: `{ message: string }`
 
-## Deployment
-
-### Deploy to Vercel
-
-1. **Push your code to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
-   ```
-
-2. **Import to Vercel**
-   - Go to [Vercel](https://vercel.com)
-   - Click "Import Project"
-   - Select your GitHub repository
-   - Add environment variables:
-     - `NEXT_PUBLIC_SUPABASE_URL`
-     - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-
-3. **Deploy**
-   - Click "Deploy"
-   - Your app will be live in minutes!
+---
 
 ## Key Implementation Details
 
@@ -236,6 +236,8 @@ All components and API routes are fully typed with TypeScript for better develop
 - Flexible grid layouts
 - Touch-friendly interface
 
+---
+
 ## Future Enhancements
 
 Potential features to add:
@@ -250,22 +252,17 @@ Potential features to add:
 - [ ] Reading time estimation
 - [ ] Markdown support option
 
+---
+
 ## License
 
 MIT License - feel free to use this project for learning or production.
+
+---
 
 ## Author
 
 - GitHub : [imBharathkumarp](https://github.com/imBharathkumarp)
 - Built with ❤️ using Next.js, TypeScript, and Supabase
-
-## Acknowledgments
-
-- [Next.js](https://nextjs.org/)
-- [Supabase](https://supabase.com/)
-- [ShadCN UI](https://ui.shadcn.com/)
-- [React Quill](https://github.com/zenoamaro/react-quill)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Lucide Icons](https://lucide.dev/)
 
 ---
