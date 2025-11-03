@@ -181,7 +181,8 @@ blogspace/
 ### Creating an Account
 1. Click "Sign Up" in the navigation bar
 2. Enter your name, email, and password
-3. You'll be automatically logged in after signup, if not "Sign in" again.
+3. After signing up, please check your registered email inbox for a confirmation message.  
+Once you verify your email, return to **BlogSpace** and sign in using your credentials.
 
 ### Creating a Blog Post
 1. Log in to your account
