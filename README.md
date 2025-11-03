@@ -7,6 +7,7 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 ## Features
 
 ### Core Functionality
+
 - **Full CRUD Operations**: Create, Read, Update, and Delete blog posts
 - **Rich Text Editor**: WYSIWYG editor powered by React Quill with formatting options
 - **User Authentication**: Secure authentication system using Supabase Auth
@@ -16,6 +17,7 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 - **Protected Routes**: Only authenticated users can create, edit, or delete posts
 
 ### Technical Features
+
 - **TypeScript**: Fully typed codebase for better development experience
 - **Server-Side Rendering**: Optimized performance with Next.js 13 App Router
 - **Modern UI**: Beautiful components built with ShadCN UI and Tailwind CSS
@@ -99,8 +101,8 @@ blogspace/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd blogspace
+   git clone https://github.com/imBharathkumarp/BlogSpace.git
+   cd BlogSpace
    ```
 
 2. **Install dependencies**
@@ -254,7 +256,8 @@ MIT License - feel free to use this project for learning or production.
 
 ## Author
 
-Built with ❤️ using Next.js, TypeScript, and Supabase
+- GitHub : [imBharathkumarp](https://github.com/imBharathkumarp)
+- Built with ❤️ using Next.js, TypeScript, and Supabase
 
 ## Acknowledgments
 
@@ -264,3 +267,5 @@ Built with ❤️ using Next.js, TypeScript, and Supabase
 - [React Quill](https://github.com/zenoamaro/react-quill)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide Icons](https://lucide.dev/)
+
+---
