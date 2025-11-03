@@ -1,12 +1,12 @@
-# BlogSpace - Modern Blog Application
+# BlogSpace - Modern Blog Application 🚀
 
 A full-stack blog application built with Next.js 13, TypeScript, Supabase, and modern UI components. Create, read, update, and delete blog posts with rich text editing capabilities.
 
-![BlogSpace](https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![BlogSpace](<ChatGPT Image Nov 3, 2025, 08_39_27 PM.png>)
 
 ---
 
-## Features
+## 🧩 Features
 
 ### Core Functionality
 
@@ -29,7 +29,7 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - **Frontend**: Next.js 13 (App Router), React 18, TypeScript
 - **Styling**: Tailwind CSS, ShadCN UI
@@ -41,7 +41,7 @@ A full-stack blog application built with Next.js 13, TypeScript, Supabase, and m
 
 ---
 
-## Project Structure
+## ⚙ Project Structure
 
 ```
 blogspace/
@@ -81,14 +81,14 @@ blogspace/
 
 ---
 
-## Snapshots
+## 📸 Snapshots
 
 - ![alt text](image.png)
 - ![alt text](image-1.png)
 
 ---
 
-## Database Schema
+## 🕹 Database Schema
 
 ### `blogs` Table
 - `id` (uuid, primary key) - Unique identifier
@@ -108,7 +108,7 @@ blogspace/
 
 ---
 
-## Getting Started
+## 📜 Getting Started
 
 ### Prerequisites
 - Node.js 18+ and npm
@@ -154,7 +154,7 @@ blogspace/
 
 ---
 
-## Usage Guide
+## 👀 Usage Guide
 
 ### Creating an Account
 1. Click "Sign Up" in the navigation bar
@@ -181,7 +181,7 @@ blogspace/
 
 ---
 
-## API Endpoints
+## 🦾 API Endpoints
 
 ### GET /api/blogs
 Fetch all blog posts
@@ -207,7 +207,7 @@ Delete a blog post
 
 ---
 
-## Key Implementation Details
+## 💻 Key Implementation Details
 
 ### TypeScript Integration
 All components and API routes are fully typed with TypeScript for better development experience and fewer runtime errors.
@@ -238,7 +238,7 @@ All components and API routes are fully typed with TypeScript for better develop
 
 ---
 
-## Future Enhancements
+## 👉 Future Enhancements
 
 Potential features to add:
 - [ ] Direct image upload to Supabase Storage
@@ -254,13 +254,13 @@ Potential features to add:
 
 ---
 
-## License
+## 🤝 License
 
 MIT License - feel free to use this project for learning or production.
 
 ---
 
-## Author
+## 😊 Author
 
 - GitHub : [imBharathkumarp](https://github.com/imBharathkumarp)
 - Built with ❤️ using Next.js, TypeScript, and Supabase
