@@ -64,7 +64,7 @@ export default function SignupPage() {
           <CardContent>
             {success ? (
               <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg text-center">
-                <p className="font-medium">Account created successfully!</p>
+                <p className="font-medium">Account created successfully, please check your registered email inbox for a confirmation message.</p>
                 <p className="text-sm mt-1">Redirecting you to the homepage...</p>
               </div>
             ) : (
